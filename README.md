@@ -90,8 +90,6 @@ MajorProject_Evoastra/
 ## How to run ML Model In my PC 😁✌️💻
 ## ▶️ Run Locally 📡
 
-### 1️⃣ Clone Repository
-https://github.com/SagarKarosiya/Energy-Anomaly-Detection-.git
 
 ### 2️⃣ Create Virtual Environment
 python -m venv venv
@@ -139,9 +137,8 @@ This project can be deployed on:
 
 ## 👨‍💻 Author
 
-## Sagar Karosiya  
-AI & ML Engineer | Game Developer | Data Scientist  
-## https://sagarkarosiya-portfolio.onrender.com/
+## Shivam Sharma  
+AI & ML Engineer | Data Scientist  
 ---
 
 ## ⭐ If You Like This Project
